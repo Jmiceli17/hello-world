@@ -1,2 +1,3 @@
 # hello-world
-Becoming familiar with GitHub
+
+Coding is cool
